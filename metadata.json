@@ -1,0 +1,6 @@
+{
+  "name": "FormulaGrid",
+  "description": "Generate Excel and spreadsheet formulas of any kind by typing what you want to do in plain English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

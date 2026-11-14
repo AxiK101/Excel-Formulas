@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FormulaGrid</string>
+    <string name="nav_generate">Generate</string>
+    <string name="nav_library">Saved</string>
+    <string name="nav_guide">EN ↔ EL</string>
+    <string name="hero_title">Describe any spreadsheet task</string>
+    <string name="hero_subtitle">Supports English &amp; Greek Excel (Ελληνικό Excel με ; και ελληνικές συναρτήσεις)</string>
+    <string name="prompt_hint">e.g. Sum column C if column A is Sales and date in B is this month… or Βρες το άθροισμα αν…</string>
+    <string name="context_hint">Optional columns / sheet layout (e.g. A: Date, B: Product, C: Price)</string>
+    <string name="action_generate">Build Formula</string>
+    <string name="action_generating">Building…</string>
+    <string name="action_copy">Copy</string>
+    <string name="copied_message">Formula copied to clipboard</string>
+    <string name="empty_library_title">No saved formulas yet</string>
+    <string name="empty_library_subtitle">Every formula you generate is cached here, and you can star your favorites for instant access.</string>
+</resources>
